@@ -7,7 +7,6 @@
   - [Preview](#Preview)
   - [Contributors](#Contributors)
   - [License](#License)
-  - [Questions](#Questions)
   ## Description
   A brief quiz on random subjects
   
